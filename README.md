@@ -49,7 +49,7 @@ Tabs
 User Scenarios
 Account Creation & Verification
 Documentation
-[project report]()
+[project report](https://github.com/Logasri05/RePlastix-Innovations/upload/main)
 
 Team Members
 
