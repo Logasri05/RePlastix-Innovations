@@ -49,7 +49,7 @@ Tabs
 User Scenarios
 Account Creation & Verification
 Documentation
-[project report]()
+[project report](file:///C:/Users/sshar/OneDrive/Desktop/RePlastix%20Innovations.pdf)
 
 Team Members
 
